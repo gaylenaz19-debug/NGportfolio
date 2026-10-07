@@ -1,0 +1,9 @@
+{
+  "name": "steeze-board",
+  "version": "0.1.0",
+  "description": "Second Brain dashboard: live Engine Room feed, token and cache tracker, domain tagging and /brain-sync context injection.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Narley Gayle"
+  }
+}

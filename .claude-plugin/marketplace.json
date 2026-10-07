@@ -1,0 +1,11 @@
+{
+  "name": "steeze",
+  "owner": { "name": "Narley Gayle" },
+  "plugins": [
+    {
+      "name": "steeze-board",
+      "source": "./steeze-board",
+      "description": "Second Brain dashboard: Engine Room feed, token and cache tracker, domain tagging and /brain-sync."
+    }
+  ]
+}
